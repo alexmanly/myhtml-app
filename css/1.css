@@ -15,7 +15,7 @@ body {
 }
 
 #header {
-	background-color:#eeeeee;
+	background-color:#FFCC66;
 	margin:10px;
 	padding:30px 10px 30px 10px;
 	border-top:2px solid #ccc;
@@ -81,7 +81,7 @@ body {
 #sidebar h1 {
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	font-size:12px;
-	color:#000;
+	color:#FFCC66;
 	margin:10px 5px 15px 10px;
 }
 #sidebar p {
@@ -105,7 +105,7 @@ ul.submenu {
 	height:13px;
 	padding:7px 7px 7px 17px;
 	margin:1px 0 0 0;
-	background-color:#fff;
+	background-color:#eee;
 	background-image:url(../images/backgrounds/submenua_normal.jpg);
 	background-position:left;
 	background-repeat:repeat-y;
@@ -151,7 +151,7 @@ ul.submenu {
 	color:#000;
 }
 #content h1 a {
-	color:#000;
+	color:#FFCC66;
 	text-decoration:none;
 	display:block;
 	background-image:url(../images/backgrounds/h1.png);
