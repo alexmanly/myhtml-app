@@ -1,2 +1,2 @@
-2.5.8
-updated JS for to fix IE ajax caching
+1.3.0
+March release note
